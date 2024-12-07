@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm I Kadek Adi Astawa  
 
-<!--
-**AAdi-AAst/AAdi-AAst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**"Programming is a Puzzle, and I Like Puzzle"**  
 
-Here are some ideas to get you started:
+I'm a **Fullstack Developer** passionate about solving problems and building impactful projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack  
+- **Frontend:** Flutter, JavaScript  
+- **Backend:** Golang  
+
+### 🎮 Hobbies  
+- Playing classic games  
+- Reading comics  
+- Drawing  
+
+### 🌟 Goals  
+I aim to **share open-source projects** and collaborate with others in the tech community.  
+
+### 📫 Connect with Me  
+- [LinkedIn: I Kadek Adi Astawa](https://www.linkedin.com/in/i-kadek-adi-astawa/)  
+
+Let's create something awesome together! 🚀  
